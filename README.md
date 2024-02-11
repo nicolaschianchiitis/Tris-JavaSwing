@@ -8,4 +8,4 @@ nella versione attuale.
 una nuova cliccando sul bottone "Nuova partita" che apparirà non appena il
 gioco corrente sarà concluso.
 
-Detto ciò, non resta altro che divertirsi! Buona giocata! 😄
+Detto ciò, non resta altro che augurarvi un buon divertimento! 😄
